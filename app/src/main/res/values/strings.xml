@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sample Profile</string>
+
+    //:::::::::::: Forget Screen ::::::::::::::::
+
+    <string name="textEmail">Email</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="login">Login</string>
+    <string name="textCancel">Cancel</string>
+    <string name="textForget">Forget Password</string>
+
+    //::::::::::: Sign Up Screen::::::::::::::::
+
+    <string name="editTextName"> User Name</string>
+    <string name="editPassword">Password</string>
+    <string name="editTextConfirmPass">Password</string>
+    <string name="buttonSignup">SignUp</string>
+    <string name="text_profile">Profile</string>
+    <string name="textUserName">Login Name</string>
+    <string name="edtUsername">User Name</string>
+    <string name="textUserEmail">User Email</string>
+    <string name="edtUserEmail">User Email</string>
+    <string name="textUserPhone">Mobile Number</string>
+    <string name="edtUserMobileNumber">Mobile Number</string>
+    <string name="text_contactUs">ContactUs</string>
+
+</resources>
